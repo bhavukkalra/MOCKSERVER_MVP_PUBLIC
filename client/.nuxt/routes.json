@@ -1,0 +1,26 @@
+[
+  {
+    "name": "createEndpoint",
+    "path": "/createEndpoint",
+    "component": "C:\\\\Users\\\\bhavu\\\\Desktop\\\\rootDesktop\\\\mockserver\\\\heroku_mockserver_private\\\\client\\\\pages\\\\createEndpoint\\\\index.vue",
+    "chunkName": "pages/createEndpoint/index"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\bhavu\\\\Desktop\\\\rootDesktop\\\\mockserver\\\\heroku_mockserver_private\\\\client\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "secret",
+    "path": "/secret",
+    "component": "C:\\\\Users\\\\bhavu\\\\Desktop\\\\rootDesktop\\\\mockserver\\\\heroku_mockserver_private\\\\client\\\\pages\\\\secret.vue",
+    "chunkName": "pages/secret"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\bhavu\\\\Desktop\\\\rootDesktop\\\\mockserver\\\\heroku_mockserver_private\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
