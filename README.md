@@ -16,18 +16,18 @@ npm install
 # Setting up .env file!
 This Project requires Integration of Vonage API for mesaage sending for Two Factor Authentication. Which requires making a free acoount there.
 
-BASE_URL = http://localhost:
-APP_ENV = "development"
+- BASE_URL = http://localhost:
+- APP_ENV = "development"
 
 (Firebase Credentials)
-API_KEY = API_KEY
-AUTH_DOMAIN =  AUTH_DOMAIN
-DATABASE_URL  = DATABASE_URL
-PROJECT_ID = PROJECT_ID
-STORAGE_BUCKET = STORAGE_BUCKET
-MESSAGING_SENDER_ID = MESSAGING_SENDER_ID
-APP_ID = APP_ID
-MEASUREMENT_ID = MEASUREMENT_ID
+- API_KEY = API_KEY
+- AUTH_DOMAIN =  AUTH_DOMAIN
+- DATABASE_URL  = DATABASE_URL
+- PROJECT_ID = PROJECT_ID
+- STORAGE_BUCKET = STORAGE_BUCKET
+- MESSAGING_SENDER_ID = MESSAGING_SENDER_ID
+- APP_ID = APP_ID
+- MEASUREMENT_ID = MEASUREMENT_ID
 
 ## Usage
 
